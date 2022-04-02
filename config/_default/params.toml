@@ -3,8 +3,8 @@
 ## Homepage
 title = "firescry"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+titleAddition = "Norwegian Notebook"
+description = "This is my public notebook for learning Norwegian (Norsk Bokmål)."
 
 ## Documentation
 # docsVersion = "0.3"
@@ -16,8 +16,8 @@ domainTLD = "www.firescry.com"
 titleHome = "firescry"
 
 ## Twitter Cards
-twitterSite = "@getdoks"
-twitterCreator = "@henkverlinde"
+# twitterSite = "@getdoks"
+# twitterCreator = "@henkverlinde"
 
 ## JSON-LD
 # schemaType = "Person"

@@ -1,8 +1,8 @@
 ---
 title: "Blog"
-description: "The Doks Blog."
-date: 2020-10-06T08:49:55+00:00
-lastmod: 2020-10-06T08:49:55+00:00
+description: "The firescry blog."
+date: 2022-04-02T16:05:00+02:00
+lastmod: 2022-04-02T16:05:00+02:00
 draft: false
 images: []
 ---
