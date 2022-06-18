@@ -6,3 +6,7 @@
   X-Frame-Options: DENY
   Referrer-Policy: same-origin
   Permissions-Policy: geolocation=()
+
+/.well-known/matrix/*
+  Access-Control-Allow-Origin: *
+  Content-Type: application/json
