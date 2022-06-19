@@ -7,6 +7,10 @@
   Referrer-Policy: same-origin
   Permissions-Policy: geolocation=()
 
-/.well-known/matrix/*
+/.well-known/matrix/client
+  Access-Control-Allow-Origin: *
+  Content-Type: application/json
+
+/.well-known/matrix/server
   Access-Control-Allow-Origin: *
   Content-Type: application/json
